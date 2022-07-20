@@ -1,4 +1,4 @@
-### Hola <img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="100" height="100"/>
+### Hola !<img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="100" height="100"/>
 
 ## Who am I? 🤓
 Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
