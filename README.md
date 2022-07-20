@@ -14,7 +14,7 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 - Average PC (3060TI, 5800X) with Ubuntu WSL
 - MSI GL63-RC Laptop with triple boot (MacOS, Windows 10 and Ubuntu)
 - iPhone XS Max (Jailbroken on 14.8)
-- Lenovo P11 Pro
+- Lenovo P11 Pro<br>
 -> My only IDE is Studio Code.
 
 ## Other stuff ⚗️
