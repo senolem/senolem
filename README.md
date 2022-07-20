@@ -10,6 +10,6 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 - [melones#4454 (Discord)](#)
 - [me@melones.fr (Email)](mailto:me@melones.fr)
 
-## Other stuff 🔥
+## Other stuff ⚗️
 - I resurrected an old French flash game website : https://absoluflash.co
 - I design clothes : https://axolotl-clothing.com
