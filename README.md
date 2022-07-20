@@ -1,4 +1,4 @@
-### Hola ~
+### Hola https://github.com/senolem/senolem/blob/main/finn.gif
 
 ## Who am I? 🤓
 Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
