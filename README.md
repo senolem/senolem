@@ -2,7 +2,8 @@
 
 ## Who am I? 🤓
 Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
-Contributions are welcomed! Don't hesitate to contact me if you have suggestions/questions.
+Contributions are welcomed! 
+Don't hesitate to contact me if you have suggestions/questions.
 
 ## You can find me here 👀
 - [@senolem (GitHub)](https://www.github.com/senolem)
