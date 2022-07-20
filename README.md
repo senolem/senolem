@@ -1,9 +1,9 @@
 ### Hola &nbsp;&nbsp;&nbsp;<img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
 
 ## Who am I? 🤓
-Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
-Contributions are welcomed! 
-Don't hesitate to contact me if you have suggestions/questions.
+Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.<br>
+Contributions are welcomed!<br>
+Don't hesitate to contact me if you have suggestions/questions.<br>
 
 ## You can find me here 👀
 - [@senolem (GitHub)](https://www.github.com/senolem)
