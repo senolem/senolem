@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola ~
 
-<!--
-**senolem/senolem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 🤓
+Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
+Contributions are welcomed! Don't hesitate to contact me if you have suggestions/questions.
 
-Here are some ideas to get you started:
+## You can find me here 👀
+- [@senolem (GitHub)](https://www.github.com/senolem)
+- [melones#4454 (Discord)](#)
+- [me@melones.fr (Email)](mailto:me@melones.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other stuff 🔥
+- I resurrected an old French flash game website : https://absoluflash.co
+- I design clothes : https://axolotl-clothing.com
