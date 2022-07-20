@@ -11,7 +11,7 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 - [me@melones.fr (Email)](mailto:me@melones.fr)
 
 ## Things I use 🛠️
-- Average PC (3060TI, 5800X) with Ubuntu WSL
+- Average PC (3060TI, 5800X) with Windows 10 & Ubuntu WSL
 - MSI GL63-RC Laptop with triple boot (MacOS, Windows 10 and Ubuntu)
 - iPhone XS Max (Jailbroken on 14.8)
 - Lenovo P11 Pro<br>
