@@ -10,6 +10,13 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 - [melones#4454 (Discord)](#)
 - [me@melones.fr (Email)](mailto:me@melones.fr)
 
+## Things I use 🛠️
+- Average PC (3060TI, 5800X) with Ubuntu WSL
+- MSI GL63-RC Laptop with triple boot (MacOS, Windows 10 and Ubuntu)
+- iPhone XS Max (Jailbroken on 14.8)
+- Lenovo P11 Pro
+-> My only IDE is Studio Code.
+
 ## Other stuff ⚗️
 - I resurrected an old French flash game website : https://absoluflash.co
 - I design clothes : https://axolotl-clothing.com
