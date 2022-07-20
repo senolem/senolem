@@ -1,4 +1,5 @@
 ### Hola ![finn](https://github.com/senolem/senolem/blob/main/finn.gif)
+<img src="https://github.com/senolem/senolem/blob/main/finn.gif" width="250" height="250"/>
 
 ## Who am I? 🤓
 Student @ 42 school. Actually learning C, already played with some Python/AHK/Lua.
