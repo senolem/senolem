@@ -18,4 +18,3 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 
 ## Other stuff ⚗️
 - I resurrected an old French flash game website : https://absoluflash.co
-- I design clothes : https://axolotl-clothing.com
