@@ -7,7 +7,7 @@ Don't hesitate to contact me if you have suggestions/questions.<br>
 
 ## You can find me here 👀
 - [@senolem (GitHub)](https://www.github.com/senolem)
-- [melones#4454 (Discord)](#)
+- [melones. (Discord)](#)
 
 ## Things I use 🛠️
 - Average PC (3060TI, 5800X) with Windows 10 & Ubuntu WSL
