@@ -1,7 +1,7 @@
 # Hola &nbsp;<img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
 
 ## Who am I? 🤓
-Student @ 42 school. Actually learning C, C++, Python, full js stack... .<br>
+Student @ 42 school. Actually learning C, C++, Python, full js stack...<br>
 Contributions are welcomed!<br>
 Don't hesitate to contact me if you have suggestions/questions.<br>
 
