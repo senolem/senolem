@@ -1,4 +1,4 @@
-# Hola   <img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
+## Hola <img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
 
 
 ## Who am I? 🤓
