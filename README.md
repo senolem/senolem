@@ -1,5 +1,5 @@
-## Hola <img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
-
+# Hola
+<img src="https://github.com/senolem/senolem/blob/main/lich.gif" width="75" height="75"/>
 
 ## Who am I? 🤓
 Student @ 42 school. Actually learning C, C++, C#, Python, full JS stack...<br>
